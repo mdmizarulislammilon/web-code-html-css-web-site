@@ -1,0 +1,169 @@
+body{
+    padding: 0;
+    margin-left: 280px;
+    margin-right: 280px;
+}
+.logo{
+    display: inline-block;
+}
+.nv{
+    float: right;
+}
+.nav{
+    background-color: beige;
+    padding-bottom: 0px;
+    
+    
+
+}
+.item{
+    list-style: none;
+    padding: 20px;
+    
+}
+.item a{
+    text-decoration: none;
+    padding: 20px;
+    margin: 20px;
+
+}
+.dis{
+    
+    margin-right: 280px;
+    width: 790px;
+}
+.div1{
+    text-align: center;
+}
+.div1 h1{
+    padding: 20px;
+ 
+    font-size: 40px;
+    font-weight: 500;
+}
+.div1 p{
+    text-align: center;
+   
+    margin-left: 200px;
+    margin-right: 200px;
+   font-size: 20px;
+}
+.div1 button{
+    background-color: rgb(235, 247, 12);
+
+    padding: 10px;
+    font-size: 18px;
+
+
+
+}
+.sub{
+    width: 20%;
+    float: left;
+    padding: 14px;
+    text-align: center;
+    background-color: whitesmoke;
+    margin: 5px;
+}
+.sub1{
+    width: 20%;
+    float: left;
+    padding: 14px;
+    text-align: center;
+    background-color: whitesmoke;
+    margin: 5px;
+}
+.sub2{
+    width: 20%;
+    float: left;
+    padding: 14px;
+    text-align: center;
+    background-color: whitesmoke;
+    margin: 5px;
+}
+.sub3{
+    width: 20%;
+    float: left;
+    padding: 14px;
+    text-align: center;
+    background-color: whitesmoke;
+    margin: 5px;
+}
+
+
+.sub img{
+    background-color: salmon;
+    
+    border-radius: 90px;
+}
+.sub1 img{
+    background-color: salmon;
+    border-radius: 90px;
+}
+.sub2 img{
+    background-color: salmon;
+    border-radius: 90px;
+}
+.sub3 img{
+    background-color: salmon;
+    border-radius: 90px;
+
+}
+.man{
+    
+}
+.divsu{
+    text-align: center;
+}
+.divsu h1{
+    padding-top: 20px;
+    margin: 30px;
+}
+.divsu h5{
+    padding-top: 20px;
+    margin: 30px;
+    width: 80%;
+}
+.divsu1 h1{
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+}
+.divsu1 h5{
+    
+    padding: 10px;
+    margin: 20px;
+    width: 50px;
+    position: relative;
+
+}
+.divsu1{
+    width: 380px;
+    text-align: center;
+    padding: 30px;
+    margin-left: 170px;
+    font-size: 20px;
+}
+.suba{
+    width: 30%;
+    float: left;
+    padding: 5px;
+    overflow: hidden;
+    box-shadow: 2px;
+}
+.subb{
+    width: 30%;
+    float: left;
+    padding: 5px;
+    overflow: hidden;
+}
+.subc{
+    width: 30%;
+    float: left;
+    padding: 5px;
+    overflow: hidden;
+}
+.suba img{
+    overflow: hidden;
+}
+
